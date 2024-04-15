@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Maven: org.yaml:snakeyaml:1.27">
+    <CLASSES>
+<<<<<<< HEAD
+      <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.27/snakeyaml-1.27-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.27/snakeyaml-1.27-sources.jar!/" />
+=======
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/org/yaml/snakeyaml/1.27/snakeyaml-1.27-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/org/yaml/snakeyaml/1.27/snakeyaml-1.27-sources.jar!/" />
+>>>>>>> faa4242 (first commit)
+    </SOURCES>
+  </library>
+</component>

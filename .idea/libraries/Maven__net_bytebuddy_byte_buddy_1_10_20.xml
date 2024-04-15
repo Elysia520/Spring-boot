@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Maven: net.bytebuddy:byte-buddy:1.10.20">
+    <CLASSES>
+<<<<<<< HEAD
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.10.20/byte-buddy-1.10.20.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.10.20/byte-buddy-1.10.20-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.10.20/byte-buddy-1.10.20-sources.jar!/" />
+=======
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/net/bytebuddy/byte-buddy/1.10.20/byte-buddy-1.10.20.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/net/bytebuddy/byte-buddy/1.10.20/byte-buddy-1.10.20-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/net/bytebuddy/byte-buddy/1.10.20/byte-buddy-1.10.20-sources.jar!/" />
+>>>>>>> faa4242 (first commit)
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Maven: org.aspectj:aspectjweaver:1.9.6">
+    <CLASSES>
+<<<<<<< HEAD
+      <root url="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6-sources.jar!/" />
+=======
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6-sources.jar!/" />
+>>>>>>> faa4242 (first commit)
+    </SOURCES>
+  </library>
+</component>

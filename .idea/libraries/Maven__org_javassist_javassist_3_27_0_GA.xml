@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Maven: org.javassist:javassist:3.27.0-GA">
+    <CLASSES>
+<<<<<<< HEAD
+      <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA-sources.jar!/" />
+=======
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA-sources.jar!/" />
+>>>>>>> faa4242 (first commit)
+    </SOURCES>
+  </library>
+</component>

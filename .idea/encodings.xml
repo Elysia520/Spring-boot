@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+<<<<<<< HEAD
+    <file url="file://$PROJECT_DIR$/L06JpaQA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/L06JpaQA/src/main/resources" charset="UTF-8" />
+=======
+    <file url="file://$PROJECT_DIR$/spring-boot/L06JpaQA/src/main/java" charset="UTF-8" />
+    <file url="file://D:/Maven/apache-maven-3.9.0-bin/apache-maven-3.9.0/org/springframework/boot/spring-boot-starter-parent/2.4.3/src/main/resources" charset="UTF-8" />
+>>>>>>> faa4242 (first commit)
+  </component>
+</project>
